@@ -1,7 +1,7 @@
 # machine-learning-notes
 机器学习相关资料和部分笔记
 
-## 内容
+## 学习资料
 + [CS229吴恩达机器学习课程](https://www.bilibili.com/video/BV19e411W7ga)
 + [PyTorch深度学习实践课程](https://www.bilibili.com/video/BV1Y7411d7Ys)
 + [李宏毅2020机器学习深度学习课程](https://www.bilibili.com/video/BV1JE411g7XF)
